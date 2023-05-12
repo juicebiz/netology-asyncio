@@ -1,0 +1,7 @@
+requests
+aiohttp
+asyncio
+more_itertools
+psycopg2-binary
+asyncpg
+SQLAlchemy==1.4.46
